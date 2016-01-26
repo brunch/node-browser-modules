@@ -4,8 +4,7 @@
 
 # License
 
-Copyright (c) 2011-2016 Allan Berger, Jan Monschke, Martin Schürrer,
-Thomas Schranz, Nik Graf, Paul Miller, Elan Shanker
+Copyright (c) 2011-2016 Thomas Schranz, Nik Graf, Paul Miller, Elan Shanker
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
