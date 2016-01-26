@@ -1,6 +1,6 @@
 # node-browser-modules
 
-A package that brings node browser shims to [Brunch](https://github.com/brunch/brunch).
+> Expose node.js shims to browsers.
 
 # License
 
