@@ -1,7 +1,7 @@
 {
   "name": "node-browser-modules",
   "description": "A collection of node browser shims for Brunch",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://brunch.io/",
   "author": "Brunch team (https://brunch.io)",
   "repository": "https://github.com/brunch/node-browser-modules.git",
