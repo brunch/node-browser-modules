@@ -24,9 +24,9 @@ exports.fileShims = {
   util:                 require.resolve('util/'),
   vm:                   require.resolve('vm-browserify'),
 
-  _stream_duplex:       require.resolve('readable-stream/duplex'),
-  _stream_passthrough:  require.resolve('readable-stream/passthrough'),
-  _stream_readable:     require.resolve('readable-stream/readable'),
-  _stream_writable:     require.resolve('readable-stream/writable'),
-  _stream_transform:    require.resolve('readable-stream/transform')
+  _stream_duplex:       require.resolve('readable-stream/lib/_stream_duplex'),
+  _stream_passthrough:  require.resolve('readable-stream/lib/_stream_passthrough'),
+  _stream_readable:     require.resolve('readable-stream/lib/_stream_readable'),
+  _stream_writable:     require.resolve('readable-stream/lib/_stream_writable'),
+  _stream_transform:    require.resolve('readable-stream/lib/_stream_transform')
 };
